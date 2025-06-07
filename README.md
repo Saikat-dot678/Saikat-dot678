@@ -1,10 +1,5 @@
 # 👋 Hi there, I am Saikat!
 
-💻 Computer Science and Engineering Student at **NIT Durgapur**  
-👤 Backend Developer exploring **AI/ML** and **Cybersecurity**  
-👊 Passionate **Competitive Programmer**  
-🎮 Love **Coding** and **Gaming**
-
 ---
 
 ## 💫 About Me
